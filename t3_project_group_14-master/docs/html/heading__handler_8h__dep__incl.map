@@ -1,0 +1,7 @@
+<map id="apps/heli/heading_handler.h" name="apps/heli/heading_handler.h">
+<area shape="rect" id="node1" title="Estimate the heading (yaw) of the helicopter by calculating phase difference of quadrature encoder; a..." alt="" coords="337,5,541,32"/>
+<area shape="rect" id="node2" href="$display__handler_8c.html" title="Abstracted display module for OLED screen." alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node3" href="$flight__controller_8c.html" title="Controls the main and tail motor using closed loop PID to a desired altitude and heading." alt="" coords="229,80,426,107"/>
+<area shape="rect" id="node4" href="$heading__handler_8c.html" title="Estimate the heading (yaw) of the helicopter by calculating phase difference of quadrature encoder; a..." alt="" coords="450,80,653,107"/>
+<area shape="rect" id="node5" href="$main_8c.html" title=" " alt="" coords="677,80,807,107"/>
+</map>

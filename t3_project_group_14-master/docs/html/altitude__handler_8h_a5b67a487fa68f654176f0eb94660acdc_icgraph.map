@@ -1,0 +1,4 @@
+<map id="altitude_sample_task" name="altitude_sample_task">
+<area shape="rect" id="node1" title="FreeRTOS task to initiate new analogue conversion every ALTITUDE_TASK_PERIOD ms If a landed voltage h..." alt="" coords="108,5,271,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

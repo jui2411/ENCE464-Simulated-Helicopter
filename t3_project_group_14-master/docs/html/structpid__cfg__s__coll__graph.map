@@ -1,0 +1,3 @@
+<map id="pid_cfg_s" name="pid_cfg_s">
+<area shape="rect" id="node1" title="PID configuration; used to pass into the the init function." alt="" coords="5,5,136,200"/>
+</map>

@@ -1,0 +1,71 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Source Code",
+            "type": "shell",
+            "command": "make",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "args": [],
+            "group": "build",
+            "problemMatcher":[]
+        },
+        {
+            "label": "Build Source Code and upload to MCU",
+            "type": "shell",
+            "command": "make program",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "args": [],
+            "group": "build",
+            "problemMatcher":[]
+        },
+        {
+            "label": "Launch GDB and connect to the microcontroller",
+            "type": "shell",
+            "command": "make debug",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "args": [],
+            "group": "build",
+            "problemMatcher":[]
+        },
+        {
+            "label": "Launch openocd",
+            "type": "shell",
+            "command": "make openocd ",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "args": [],
+            "group": "build",
+            "problemMatcher":[]
+        },
+        {
+            "label": "Make Clean",
+            "type": "shell",
+            "command": "make clean",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "args": [],
+            "group": "build",
+            "problemMatcher":[]
+        },
+        {
+            "label": "Documentation",
+            "type": "shell",
+            "command": "open index.html",
+            "options": {
+                "cwd": "${workspaceFolder}/docs/html/"
+            },
+            "args": [],
+            "group": "build",
+            "problemMatcher":[]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+<map id="display_initialise" name="display_initialise">
+<area shape="rect" id="node1" title="Initializes OLED display." alt="" coords="108,5,240,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

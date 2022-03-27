@@ -1,0 +1,4 @@
+<map id="flight_controller_initialise" name="flight_controller_initialise">
+<area shape="rect" id="node1" title="Initilise the flight controller." alt="" coords="108,5,295,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

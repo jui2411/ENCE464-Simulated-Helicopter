@@ -1,0 +1,5 @@
+<map id="led_toggle" name="led_toggle">
+<area shape="rect" id="node1" title="toggle led." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="node2" href="$led_8c.html#a01788e05e2d5db7fac34c88d9414ce0b" title="turn off led." alt="" coords="144,5,211,32"/>
+<area shape="rect" id="node3" href="$led_8c.html#a7dc565876dbc263c6907fa1d0cf697ba" title="turn on LED." alt="" coords="145,56,210,83"/>
+</map>

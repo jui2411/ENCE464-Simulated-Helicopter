@@ -1,0 +1,12 @@
+<map id="apps/heli/config/target.h" name="apps/heli/config/target.h">
+<area shape="rect" id="node1" title="Common configs for Tiva board and the project." alt="" coords="506,5,685,32"/>
+<area shape="rect" id="node2" href="$altitude__handler_8c.html" title="Handles interfacing with the ADC for reading and processing the altitude from the heliRig." alt="" coords="5,80,140,121"/>
+<area shape="rect" id="node3" href="$flight__controller_8c.html" title="Controls the main and tail motor using closed loop PID to a desired altitude and heading." alt="" coords="165,87,362,114"/>
+<area shape="rect" id="node4" href="$heading__handler_8c.html" title="Estimate the heading (yaw) of the helicopter by calculating phase difference of quadrature encoder; a..." alt="" coords="386,87,589,114"/>
+<area shape="rect" id="node5" href="$led__controller_8c.html" title=" " alt="" coords="613,87,797,114"/>
+<area shape="rect" id="node6" href="$rotors_8c.html" title="Handles initialising and controlling power of the main and tail rotors of the helirig." alt="" coords="821,87,956,114"/>
+<area shape="rect" id="node7" href="$ui__input__handler_8h.html" title="This Module monitors the user input and sent the data via a queue." alt="" coords="980,80,1117,121"/>
+<area shape="rect" id="node8" href="$main_8c.html" title=" " alt="" coords="832,177,961,203"/>
+<area shape="rect" id="node9" href="$pilot_8c.html" title="Pilot stream data via a queue from user interface module and interpret it into a heading goal and alt..." alt="" coords="986,177,1111,203"/>
+<area shape="rect" id="node10" href="$ui__input__handler_8c.html" title="This Module monitors the user input and sent the data via a queue." alt="" coords="1136,169,1273,211"/>
+</map>

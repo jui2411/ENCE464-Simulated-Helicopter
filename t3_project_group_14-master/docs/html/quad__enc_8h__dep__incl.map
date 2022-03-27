@@ -1,0 +1,5 @@
+<map id="drivers/quad_enc/quad_enc.h" name="drivers/quad_enc/quad_enc.h">
+<area shape="rect" id="node1" title="Quadrature encoder driver." alt="" coords="127,5,297,47"/>
+<area shape="rect" id="node2" href="$heading__handler_8c.html" title="Estimate the heading (yaw) of the helicopter by calculating phase difference of quadrature encoder; a..." alt="" coords="5,102,208,129"/>
+<area shape="rect" id="node3" href="$quad__enc_8c.html" title="Quadrature encoder driver." alt="" coords="233,95,402,136"/>
+</map>

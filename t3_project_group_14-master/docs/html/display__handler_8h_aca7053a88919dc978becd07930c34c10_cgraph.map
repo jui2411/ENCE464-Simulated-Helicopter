@@ -1,0 +1,4 @@
+<map id="update_display_task" name="update_display_task">
+<area shape="rect" id="node1" title="FreeRTOS Task to update display." alt="" coords="5,13,161,39"/>
+<area shape="rect" id="node2" href="$display__handler_8c.html#a11c2bbef98e5591f352d5602bc59278d" title="Method to update a specified row (rowNum) with two titles. //str 1 and str 2 are any given strings,..." alt="" coords="209,5,413,47"/>
+</map>

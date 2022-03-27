@@ -1,0 +1,7 @@
+<map id="apps/heli/altitude_handler.h" name="apps/heli/altitude_handler.h">
+<area shape="rect" id="node1" title="Handles interfacing with the ADC for reading and processing the altitude from the heliRig." alt="" coords="307,5,441,47"/>
+<area shape="rect" id="node2" href="$altitude__handler_8c.html" title="Handles interfacing with the ADC for reading and processing the altitude from the heliRig." alt="" coords="5,95,140,136"/>
+<area shape="rect" id="node3" href="$display__handler_8c.html" title="Abstracted display module for OLED screen." alt="" coords="164,102,363,129"/>
+<area shape="rect" id="node4" href="$flight__controller_8c.html" title="Controls the main and tail motor using closed loop PID to a desired altitude and heading." alt="" coords="387,102,585,129"/>
+<area shape="rect" id="node5" href="$main_8c.html" title=" " alt="" coords="609,102,739,129"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="apps/heli/pilot.c" name="apps/heli/pilot.c">
+<area shape="rect" id="node1" title="Pilot stream data via a queue from user interface module and interpret it into a heading goal and alt..." alt="" coords="393,5,518,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="187,80,283,107"/>
+<area shape="rect" id="node3" href="$ui__input__handler_8h.html" title="This Module monitors the user input and sent the data via a queue." alt="" coords="307,80,449,107"/>
+<area shape="rect" id="node15" href="$led__controller_8h.html" title=" " alt="" coords="473,80,595,107"/>
+<area shape="rect" id="node16" href="$uartd_8h_source.html" title=" " alt="" coords="620,80,688,107"/>
+<area shape="rect" id="node4" href="$button_8h.html" title="Driver for handling buttons." alt="" coords="180,155,256,181"/>
+<area shape="rect" id="node5" href="$switch_8h.html" title="Driver for handling switches." alt="" coords="280,155,356,181"/>
+<area shape="rect" id="node6" href="$target_8h.html" title="Common configs for Tiva board and the project." alt="" coords="380,155,496,181"/>
+<area shape="rect" id="node14" title=" " alt="" coords="521,155,595,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,229,76,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="101,229,183,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="207,229,354,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="379,229,497,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="521,229,651,256"/>
+<area shape="rect" id="node12" title=" " alt="" coords="675,229,795,256"/>
+<area shape="rect" id="node13" title=" " alt="" coords="820,229,968,256"/>
+</map>

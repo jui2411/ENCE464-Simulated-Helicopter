@@ -1,0 +1,6 @@
+<map id="utils/math_ext/math_ext.h" name="utils/math_ext/math_ext.h">
+<area shape="rect" id="node1" title="Extra maths." alt="" coords="235,5,389,47"/>
+<area shape="rect" id="node2" href="$flight__controller_8c.html" title="Controls the main and tail motor using closed loop PID to a desired altitude and heading." alt="" coords="5,102,203,129"/>
+<area shape="rect" id="node3" href="$quad__enc_8c.html" title="Quadrature encoder driver." alt="" coords="227,95,397,136"/>
+<area shape="rect" id="node4" href="$math__ext_8c.html" title="Extra maths." alt="" coords="421,95,576,136"/>
+</map>

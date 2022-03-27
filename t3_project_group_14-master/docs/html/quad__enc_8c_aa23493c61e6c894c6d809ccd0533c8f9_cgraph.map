@@ -1,0 +1,4 @@
+<map id="quad_enc_heading_calc" name="quad_enc_heading_calc">
+<area shape="rect" id="node1" title="Calculate the heading." alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$math__ext_8c.html#a920572acb082625b29fb0f001b7d43a1" title="Modulus calculation; A remainder of dividing a by b." alt="" coords="229,5,369,32"/>
+</map>

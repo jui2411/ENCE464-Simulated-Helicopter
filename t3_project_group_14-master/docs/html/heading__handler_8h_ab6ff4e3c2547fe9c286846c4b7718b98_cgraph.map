@@ -1,0 +1,4 @@
+<map id="heading_get" name="heading_get">
+<area shape="rect" id="node1" title="Get the current estimated heading." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$quad__enc_8c.html#a59eea29d614892dd00647c9c3d23cdd6" title="Get the current heading." alt="" coords="156,5,327,32"/>
+</map>

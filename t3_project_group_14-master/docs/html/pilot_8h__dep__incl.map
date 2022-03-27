@@ -1,0 +1,6 @@
+<map id="apps/heli/pilot.h" name="apps/heli/pilot.h">
+<area shape="rect" id="node1" title="Pilot stream data via a queue from user interface module and interpret it into a heading goal and alt..." alt="" coords="264,5,391,32"/>
+<area shape="rect" id="node2" href="$display__handler_8c.html" title="Abstracted display module for OLED screen." alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node3" href="$flight__controller_8c.html" title="Controls the main and tail motor using closed loop PID to a desired altitude and heading." alt="" coords="229,80,426,107"/>
+<area shape="rect" id="node4" href="$main_8c.html" title=" " alt="" coords="451,80,580,107"/>
+</map>
